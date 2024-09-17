@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="css/master.css">
+</head>
+
+<body>
+    <!--Header Section-->
+    <header class="banner">
+        <h2>News Website</h2>
+        <p>Local and International News</p>
+    </header>
+
+    <!--Navigation Section -->
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="politics.html">Politics</a></li>
+            <li><a href="sports.html">Sports</a></li>
+            <li><a href="lifestyle.html">Life Style</a></li>
+            <li><a href="ourcontacts.html">Our Contact</a></li>
+        </ul>
+    </nav>
+
+    <!--Body Section-->
+    <main>
+        <section class="content">
+            <h2>sports News</h2>
+
+            <article>
+                <header>
+                    <h2>Uganda Volleyball Federation</h2>
+                    <p>By Wafula Kevin</p>
+                </header>
+
+                <p>The results will be released from Kampala Parents School</p>
+                <p>The executive secretary of the Uganda National Exaination</p>
+                <p>DOCTYPE is a declaration at every begining of an HTML document.</p>
+                <p>It tells the web browser which version of html the page is written in,helping the browser to render the page</p>
+                <p>Meta charset tag specifies the character encoding for the html document. Character encoding is the way characters are represented in bytes. The most common character encoding is UTF-8, which include most characters from all languages</p>
+                <p>Meta name and viewport tag controls the zooming and scaling of a web page on mobile devices</p>
+            </article>
+        </section>
+
+        <aside>
+            <h1>News Brief</h1>
+
+            <p>I want to be the best vollyball journalist</p>
+            <p>I want to win every news award</p>
+        </aside>
+    </main>
+
+    <!--Footer Section-->
+    <footer>
+        &copy; Main Compus 2024/25 - wafula kevin & 23/1/222/D/684
+    </footer>
+</body>
+
+</html>
